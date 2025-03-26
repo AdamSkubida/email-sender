@@ -1,0 +1,15 @@
+#Ignoruj .env
+.env
+
+# Ignoruj pliki SQLite tools
+sqlite3.exe
+sqlite3_analyzer.exe
+sqldiff.exe
+sqlite3_rsync.exe
+
+# Ignoruj pliki tymczasowe
+*.db-wal
+*.db-shm
+*.sqlite-journal
+
+# Ignoruj pliki system
