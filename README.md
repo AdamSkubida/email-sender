@@ -2,7 +2,7 @@
 
 1. Install SQLite
 
-2. Add .env file, write ur <i>"EMAIL_ADRESS</i> and <i>EMAIL_PASSWORD</i>
+2. Add .env file, write ur <i>EMAIL_ADRESS</i> and <i>EMAIL_PASSWORD</i>
 
 3. Install SQLite Viever for better data base interface
 
